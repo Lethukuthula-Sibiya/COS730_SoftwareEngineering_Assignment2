@@ -1,0 +1,14 @@
+C:\Users\Mpumi\IntelligentSubmissionSystem\bin\Debug\net8.0\IntelligentSubmissionSystem.exe
+C:\Users\Mpumi\IntelligentSubmissionSystem\bin\Debug\net8.0\IntelligentSubmissionSystem.deps.json
+C:\Users\Mpumi\IntelligentSubmissionSystem\bin\Debug\net8.0\IntelligentSubmissionSystem.runtimeconfig.json
+C:\Users\Mpumi\IntelligentSubmissionSystem\bin\Debug\net8.0\IntelligentSubmissionSystem.dll
+C:\Users\Mpumi\IntelligentSubmissionSystem\bin\Debug\net8.0\IntelligentSubmissionSystem.pdb
+C:\Users\Mpumi\IntelligentSubmissionSystem\obj\Debug\net8.0\IntelligentSubmissionSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mpumi\IntelligentSubmissionSystem\obj\Debug\net8.0\IntelligentSubmissionSystem.AssemblyInfoInputs.cache
+C:\Users\Mpumi\IntelligentSubmissionSystem\obj\Debug\net8.0\IntelligentSubmissionSystem.AssemblyInfo.cs
+C:\Users\Mpumi\IntelligentSubmissionSystem\obj\Debug\net8.0\IntelligentSubmissionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mpumi\IntelligentSubmissionSystem\obj\Debug\net8.0\IntelligentSubmissionSystem.dll
+C:\Users\Mpumi\IntelligentSubmissionSystem\obj\Debug\net8.0\refint\IntelligentSubmissionSystem.dll
+C:\Users\Mpumi\IntelligentSubmissionSystem\obj\Debug\net8.0\IntelligentSubmissionSystem.pdb
+C:\Users\Mpumi\IntelligentSubmissionSystem\obj\Debug\net8.0\IntelligentSubmissionSystem.genruntimeconfig.cache
+C:\Users\Mpumi\IntelligentSubmissionSystem\obj\Debug\net8.0\ref\IntelligentSubmissionSystem.dll
